@@ -1,0 +1,100 @@
+2022-07-14 10:05:47.661575: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /home/luca/.local/lib/python3.10/site-packages/cv2/../../lib64:
+2022-07-14 10:05:47.661595: W tensorflow/stream_executor/cuda/cuda_driver.cc:269] failed call to cuInit: UNKNOWN ERROR (303)
+2022-07-14 10:05:47.661607: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (lHost): /proc/driver/nvidia/version does not exist
+2022-07-14 10:05:47.661920: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F AVX512_VNNI FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[INFO] building autoencoder...
+Epoch 1/5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1563/1563 [==============================] - 34s 21ms/step - loss: 0.0101 - accuracy: 0.6394 - val_loss: 0.0063 - val_accuracy: 0.7235
+Epoch 2/5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1563/1563 [==============================] - 37s 24ms/step - loss: 0.0064 - accuracy: 0.7182 - val_loss: 0.0057 - val_accuracy: 0.7455
+Epoch 3/5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1563/1563 [==============================] - 37s 24ms/step - loss: 0.0061 - accuracy: 0.7272 - val_loss: 0.0056 - val_accuracy: 0.7435
+Epoch 4/5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1563/1563 [==============================] - 37s 24ms/step - loss: 0.0059 - accuracy: 0.7300 - val_loss: 0.0054 - val_accuracy: 0.7285
+Epoch 5/5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1563/1563 [==============================] - 38s 24ms/step - loss: 0.0057 - accuracy: 0.7306 - val_loss: 0.0055 - val_accuracy: 0.7326
