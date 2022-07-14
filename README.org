@@ -1,0 +1,5 @@
+#+TITLE: Convolutional Neural Network Denoise-AutoEncoder
+#+AUTHOR: Luca Zaninotto
+#+DATE: <1970-01-01 gio>
+* The project
+  Project for the course of Machine Learning, a.y. 2021/2022
